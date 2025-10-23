@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MouseShareApp</string>
+
+    <string name="accessibility_service_description">Allows MouseShare to control your device with
+        mouse and keyboard from your desktop computer. This service injects touch events to simulate
+        mouse clicks and movements.</string>
+</resources>
